@@ -1,0 +1,9 @@
+Language pack installation
+
+To install the language packs for this product consult Polar Application Note AP600
+
+https://www.polarinstruments.com/support/installation/AP600.html
+
+For assistance contact polarcare@polarinstruments.com
+
+Polar Instruments
